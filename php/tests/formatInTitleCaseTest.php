@@ -1,7 +1,7 @@
 <?php
 
-require_once __DIRNAME__ . '/../vendor/autoload.php';
-require_once __DIRNAME__ . '/../src/formatInTitleCase.php';
+require_once __DIR__ . '/../vendor/autoload.php';
+require_once __DIR__ . '/../src/formatInTitleCase.php';
 
 use PHPUnit\Framework\TestCase;
 
